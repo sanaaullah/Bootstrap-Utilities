@@ -1,0 +1,33 @@
+.b-box{
+	height: 100px;
+}
+.b-border{
+	border-color: red !important;
+}	
+span{
+	width: 100px;
+	height: 100px;
+}	
+.size{
+  height: 100px;
+  width: 150px;
+  border-color: red !important;
+}
+.box2{
+  width: 10px;
+  height: 100px;
+  background-color: #959595;
+  
+}
+.bor-size{
+  border-width: 3px !important;
+}		
+.box{
+	width: 150px;
+}
+.width-100{
+	width: 100px;
+}
+.height-200{
+	height: 200px;
+}
